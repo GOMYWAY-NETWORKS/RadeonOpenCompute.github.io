@@ -175,7 +175,8 @@ We recommend you [verify your installation](https://github.com/RadeonOpenCompute
  ```shell
  sudo apt-get install rocm opencl-rocm
  ```
- or, if you would like the OpenCL header files, 
+
+or, if you would like the OpenCL header files, 
  
   ```shell
  sudo apt-get install rocm opencl-rocm-dev
